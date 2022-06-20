@@ -6,7 +6,7 @@
 #include <thread>
 #include <stdio.h> 
 #include <time.h>
-
+//libraries we are using.
 using namespace std;
 
 #define MAX_DIGITS 10

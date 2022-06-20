@@ -3,6 +3,15 @@ Security threat from **thermal sensors** that *deteriorate* the **energy consump
 
 This was a very eye-opening experience and conclusively, since Amazon has about **five-hundred-thousand** servers, and the average server that had a Trojan was using more electricity in 30 minutes than the other (0.12 cents) by 0.02 cents, (without a Trojan it was 0.10 cents per 30 minutes), this means that giant companies like Amazon could potentially lose over **172.8 Million Dollars** every year, overpaying for the electricity to operate the cooling of the fans, if their servers get infected with a dangerous Trojan. 
 
+# Items/Sources Used
+
+https://www.amazon.com/Amazon-Basics-Speed-Circulator-11-Inch/dp/B07BZQKC5M
+https://thepihut.com/products/raspberry-pi-starter-kit?variant=30749409116222
+https://www.amazon.com/Iot-Relay-Enclosed-High-Power-Raspberry/dp/B00WV7GMA2/ref=sr_1_4?keywords=DIGITAL+LOGGERS&qid=1655731242&s=electronics&sr=1-4
+https://www.amazon.com/Electricity-Monitor-Voltage-Overload-Protection/dp/B07DPJ3RGB/ref=sr_1_3?crid=262ZFMKRJVB0B&keywords=power+meter+tka+united&qid=1655731421&sprefix=power+meter+tka+united%2Caps%2C101&sr=8-3 **X2**
+
+Found the **cost** of the electricity with this calculator: https://www.omnicalculator.com/everyday-life/electricity-cost
+
 # Results
 
 There is an excel sheet with all the data recorded, calculated, and analyzed.
@@ -22,3 +31,5 @@ The code is also designed to color code the temperature to make is easier to rea
 # Conclusion
 
 This test has shown that on a large scale, Trojans can cost millions of dollars in damage in a short amount of time, no wonder there is a lot of preamptive maintanence and personal carefully monitoring their systems.
+
+# Things I learned from this

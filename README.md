@@ -19,7 +19,7 @@ There is an excel sheet with all the data recorded, calculated, and analyzed.
 
 # Variables
 
-The variables that were measured were the distance from the CPU: 1 foot, 2 feet, and 3 feet, the fan speed (this fan has 3 speeds to choose from), 33%, 66%, and 100%.
+The variables that were measured were the distance from the CPU: 1 foot, 2 feet, and 3 feet, and the fan speed (this fan has 3 speeds to choose from), 33%, 66%, and 100%.
 
 This benchmark was taken in a room with a static temperature of 70 degrees.
 

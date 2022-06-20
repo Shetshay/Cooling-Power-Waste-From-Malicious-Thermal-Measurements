@@ -12,6 +12,7 @@ This was a very eye-opening experience and conclusively, since Amazon has about 
 5. https://www.amazon.com/Keszoox-Premium-Breadboard-Jumper-Raspberry/dp/B09F6WVHQR/ref=sr_1_3?crid=28ZV0UC8W0Y99&keywords=raspberry+pi+wires&qid=1655732213&sprefix=raspberry+pi+wires%2Caps%2C149&sr=8-3
 
 Found the **cost** of the electricity with this calculator: https://www.omnicalculator.com/everyday-life/electricity-cost
+
 This stack overflow helped me change the colors for *aesthetics* and **easy readibility**: https://stackoverflow.com/questions/20909942/color-linux-command-output#20910309
 
 # Results

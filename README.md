@@ -6,7 +6,7 @@ This was a very eye-opening experience and conclusively, since Amazon has about 
 # Items/Sources Used
 
 1. https://www.amazon.com/Amazon-Basics-Speed-Circulator-11-Inch/dp/B07BZQKC5M
-2. https://thepihut.com/products/raspberry-pi-starter-kit?variant=30749409116222
+2. https://www.amazon.com/LoveRPi-Raspberry-Computer-Heatsinks-4GB/dp/B07WHZW881/ref=sr_1_4?crid=1GH6BY8C6YBVR&keywords=raspberry+pi+4gb+2018&qid=1655732147&sprefix=rasberry+pi+4gb+2018%2Caps%2C107&sr=8-4
 3. https://www.amazon.com/Iot-Relay-Enclosed-High-Power-Raspberry/dp/B00WV7GMA2/ref=sr_1_4?keywords=DIGITAL+LOGGERS&qid=1655731242&s=electronics&sr=1-4
 4. https://www.amazon.com/Electricity-Monitor-Voltage-Overload-Protection/dp/B07DPJ3RGB/ref=sr_1_3?crid=262ZFMKRJVB0B&keywords=power+meter+tka+united&qid=1655731421&sprefix=power+meter+tka+united%2Caps%2C101&sr=8-3 **X2**
 

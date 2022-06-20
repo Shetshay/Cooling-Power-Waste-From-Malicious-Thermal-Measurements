@@ -5,10 +5,10 @@ This was a very eye-opening experience and conclusively, since Amazon has about 
 
 # Items/Sources Used
 
-https://www.amazon.com/Amazon-Basics-Speed-Circulator-11-Inch/dp/B07BZQKC5M
-https://thepihut.com/products/raspberry-pi-starter-kit?variant=30749409116222
-https://www.amazon.com/Iot-Relay-Enclosed-High-Power-Raspberry/dp/B00WV7GMA2/ref=sr_1_4?keywords=DIGITAL+LOGGERS&qid=1655731242&s=electronics&sr=1-4
-https://www.amazon.com/Electricity-Monitor-Voltage-Overload-Protection/dp/B07DPJ3RGB/ref=sr_1_3?crid=262ZFMKRJVB0B&keywords=power+meter+tka+united&qid=1655731421&sprefix=power+meter+tka+united%2Caps%2C101&sr=8-3 **X2**
+1. https://www.amazon.com/Amazon-Basics-Speed-Circulator-11-Inch/dp/B07BZQKC5M
+2. https://thepihut.com/products/raspberry-pi-starter-kit?variant=30749409116222
+3. https://www.amazon.com/Iot-Relay-Enclosed-High-Power-Raspberry/dp/B00WV7GMA2/ref=sr_1_4?keywords=DIGITAL+LOGGERS&qid=1655731242&s=electronics&sr=1-4
+4. https://www.amazon.com/Electricity-Monitor-Voltage-Overload-Protection/dp/B07DPJ3RGB/ref=sr_1_3?crid=262ZFMKRJVB0B&keywords=power+meter+tka+united&qid=1655731421&sprefix=power+meter+tka+united%2Caps%2C101&sr=8-3 **X2**
 
 Found the **cost** of the electricity with this calculator: https://www.omnicalculator.com/everyday-life/electricity-cost
 

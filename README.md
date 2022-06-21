@@ -15,7 +15,7 @@ Found the **cost** of the electricity with this calculator:
 
 1. https://www.omnicalculator.com/everyday-life/electricity-cost
 2. https://www.omnicalculator.com/everyday-life/electricity-cost-single-usage
-3. 
+
 This stack overflow helped me change the colors for *aesthetics* and **easy readibility**: https://stackoverflow.com/questions/20909942/color-linux-command-output#20910309
 
 # Results

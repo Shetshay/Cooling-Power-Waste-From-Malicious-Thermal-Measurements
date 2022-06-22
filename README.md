@@ -16,6 +16,12 @@ Found the **cost** of the electricity with this calculator:
 1. https://www.omnicalculator.com/everyday-life/electricity-cost ***(Calculates the cost per year)***
 2. https://www.omnicalculator.com/everyday-life/electricity-cost-single-usage ***(Calculates the cost per day)***
 
+# Average Cost per kWh per State
+
+Found the **average** cost per kWh per state here:
+
+https://www.electricrate.com/electricity-rates-by-state/
+
 # The Equation
 
 Example Problem W/ Equation:
@@ -29,10 +35,6 @@ Example Problem W/ Equation:
 *Anually:*
 
 3.  13.04¢ x 365(# of days in a year) = **4,763$**
-
-Found the **average** cost per kWh per state here:
-
-1. https://www.electricrate.com/electricity-rates-by-state/
 
 This stack overflow helped me change the colors for *aesthetics* and **easy readibility**: https://stackoverflow.com/questions/20909942/color-linux-command-output#20910309
 

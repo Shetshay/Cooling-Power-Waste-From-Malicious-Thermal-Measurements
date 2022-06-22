@@ -59,7 +59,3 @@ The code is also designed to color code the temperature to make is easier to rea
 # Conclusion
 
 This test has shown that on a large scale, Trojans can cost millions of dollars in damage in a short amount of time, no wonder there is a lot of preamptive maintanence and personal carefully monitoring their systems.
-
-# Things I learned from this
-
-Needed a way to check the temperature every second instead of every minute. The distance from the CPU didn't really matter because the fan would always stay on for at LEAST a minute because of the code, in the real world maybe the cooling immediatly turns off when it reaches a certain degrees after checking the temperature every second.

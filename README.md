@@ -20,7 +20,7 @@ Found the **cost** of the electricity with this calculator:
 
 Example Problem W/ Equation:
 
-**28.3(Watts) x 24(hrs) / 1000 = 0.6792kWh(per day)**
+**28.3(Watts) x 24(hrs) / 1000 = 0.6792kWh**
 
 *Daily:*
 

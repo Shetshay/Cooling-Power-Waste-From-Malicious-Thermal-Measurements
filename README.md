@@ -1,7 +1,7 @@
 # CEECS-Project
 Security threat from **thermal sensors** that *deteriorate* the **energy consumption** of *cloud computing data centers*.
 
-This was a very eye-opening experience and conclusively, big companies like Amazon have about **five-hundred-thousand** servers, and the average server that would have a Trojan would use more electricity in 30 minutes than the other server (0.12 cents) by 0.02 cents, (without a Trojan it was 0.10 cents per 30 minutes), this means that giant companies like Amazon could potentially lose over **172.8 Million Dollars** every year, overpaying for the electricity to operate the cooling of the fans, if their servers get infected with a dangerous Trojan. 
+This was a very eye-opening experience and conclusively, big companies like Amazon have about **five-hundred-thousand** servers, and the average server that would have a Trojan would use more electricity in 30 minutes than the other server (0.12 cents) by 0.02 cents, (without a Trojan it was 0.10 cents per 30 minutes), this means that giant companies like Amazon could potentially lose over **will update** every year, overpaying for the electricity to operate the cooling of the fans, if their servers get infected with a dangerous Trojan. 
 
 # Items/Sources Used
 

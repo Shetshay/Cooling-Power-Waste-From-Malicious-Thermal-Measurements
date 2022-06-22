@@ -13,10 +13,24 @@ This was a very eye-opening experience and conclusively, big companies like Amaz
 
 Found the **cost** of the electricity with this calculator: 
 
-1. https://www.omnicalculator.com/everyday-life/electricity-cost
-2. https://www.omnicalculator.com/everyday-life/electricity-cost-single-usage
+1. https://www.omnicalculator.com/everyday-life/electricity-cost ***(Calculates the cost per year)***
+2. https://www.omnicalculator.com/everyday-life/electricity-cost-single-usage ***(Calculates the cost per day)***
 
-Fount the **average** cost per kWh per state here:
+# The Equation
+
+Example Problem W/ Equation:
+
+**28.3(Watts) x 24(hrs) / 1000 = 0.6792kWh(per day)**
+
+Daily:
+
+**0.06792kWh x (insert average kWh in your state here***(19.20)***) = 13.04¢**
+
+Anually: 
+
+13.04¢ x 365(# of days in a year) = **4,763$**
+
+Found the **average** cost per kWh per state here:
 
 1. https://www.electricrate.com/electricity-rates-by-state/
 

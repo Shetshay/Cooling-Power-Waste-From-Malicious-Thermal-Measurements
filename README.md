@@ -22,11 +22,11 @@ Example Problem W/ Equation:
 
 **28.3(Watts) x 24(hrs) / 1000 = 0.6792kWh(per day)**
 
-Daily:
+*Daily:*
 
-**0.06792kWh x (insert average kWh in your state here***(19.20)***) = 13.04¢**
+**0.06792kWh x (insert average kWh in your state here(19.20)) = 13.04¢**
 
-Anually: 
+*Anually:*
 
 13.04¢ x 365(# of days in a year) = **4,763$**
 

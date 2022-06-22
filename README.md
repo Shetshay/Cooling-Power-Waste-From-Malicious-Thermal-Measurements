@@ -16,6 +16,10 @@ Found the **cost** of the electricity with this calculator:
 1. https://www.omnicalculator.com/everyday-life/electricity-cost
 2. https://www.omnicalculator.com/everyday-life/electricity-cost-single-usage
 
+Fount the **average** cost per kWh per state here:
+
+1. https://www.electricrate.com/electricity-rates-by-state/
+
 This stack overflow helped me change the colors for *aesthetics* and **easy readibility**: https://stackoverflow.com/questions/20909942/color-linux-command-output#20910309
 
 # Results

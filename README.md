@@ -20,15 +20,15 @@ Found the **cost** of the electricity with this calculator:
 
 Example Problem W/ Equation:
 
-**28.3(Watts) x 24(hrs) / 1000 = 0.6792kWh**
+1.  **28.3(Watts) x 24(hrs) / 1000 = 0.6792kWh**
 
 *Daily:*
 
-**0.06792kWh x (insert average kWh in your state here(19.20)) = 13.04¢**
+2.  **0.06792kWh x (insert average kWh in your state here(19.20)) = 13.04¢**
 
 *Anually:*
 
-13.04¢ x 365(# of days in a year) = **4,763$**
+3.  13.04¢ x 365(# of days in a year) = **4,763$**
 
 Found the **average** cost per kWh per state here:
 

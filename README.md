@@ -35,6 +35,8 @@ Example Problem W/ Equation:
 
 3.  13.04¢ x 365(# of days in a year) = **4,763$**
 
+(PUT THE MONEY THEY WOULD NORMALLY USE HERE)
+
 Found the **cost** of the electricity with this calculator: 
 
 1. https://www.omnicalculator.com/everyday-life/electricity-cost ***(Calculates the cost per year)***

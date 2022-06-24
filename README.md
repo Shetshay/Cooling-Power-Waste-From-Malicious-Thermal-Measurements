@@ -33,7 +33,7 @@ Example Problem W/ Equation:
 
 *Anually:*
 
-3.  13.04¢ x 365(# of days in a year) = **4,763$**
+3.  0.1304¢ x 365(# of days in a year) = **47.63$**
 
 (PUT THE MONEY THEY WOULD NORMALLY USE HERE)
 

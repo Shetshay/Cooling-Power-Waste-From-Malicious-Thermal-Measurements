@@ -1,4 +1,4 @@
-![SURE POSTER](https://raw.githubusercontent.com/Shetshay/CEECS-Project/edit/main/CEECS-1.png)
+![SURE POSTER]([https://raw.githubusercontent.com/Shetshay/CEECS-Project/edit/main/CEECS-1.png](https://github.com/Shetshay/CEECS-Project/blob/main/CEECS-1.png))
 ![SURE POSTER](https://raw.githubusercontent.com/Shetshay/CEECS-Project/edit/main/CEECS-2.png)
 ![SURE POSTER](https://raw.githubusercontent.com/Shetshay/CEECS-Project/edit/main/CEECS-3.png)
 

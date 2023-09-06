@@ -1,6 +1,8 @@
-![SURE POSTER]([https://raw.githubusercontent.com/Shetshay/CEECS-Project/blob/main/CEECS-1.png])
-![SURE POSTER](https://raw.githubusercontent.com/Shetshay/CEECS-Project/blob/main/CEECS-2.png)
-![SURE POSTER](https://raw.githubusercontent.com/Shetshay/CEECS-Project/blob/main/CEECS-3.png)
+![SURE RESEARCH 1](https://raw.githubusercontent.com/Shetshay/CEECS-Project/main/CEECS-1.png)
+![SURE RESEARCH 2](https://raw.githubusercontent.com/Shetshay/CEECS-Project/main/CEECS-2.png)
+![SURE RESEARCH 3](https://raw.githubusercontent.com/Shetshay/CEECS-Project/main/CEECS-3.png)
+
+
 
 # CEECS-Project
 Security threat from **thermal sensors** that *deteriorate* the **energy consumption** of *cloud computing data centers*.
